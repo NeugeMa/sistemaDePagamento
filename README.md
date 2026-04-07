@@ -4,6 +4,7 @@ Aplicação console desenvolvida em C# (.NET 8) que simula um sistema de process
 
 ## Estrutura do Projeto
 
+```text
 sistemaDePagamento/
 ├── Models/
 │   ├── Pagamento.cs            # Classe base abstrata
@@ -13,6 +14,7 @@ sistemaDePagamento/
 │   └── Menu.cs                 # Classe estática do menu
 ├── Program.cs                  # Ponto de entrada da aplicação
 └── sistemaDePagamento.csproj
+```
 
 ## Integramtes 
 
